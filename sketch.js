@@ -38,7 +38,7 @@ scrollDown();
     pos+=0.05;
   }
 
-if (pos >= width - 300) {
+if (pos >= height - 300) {
 
     dato = -3;
     pos-=3;
